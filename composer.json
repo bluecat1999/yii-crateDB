@@ -1,0 +1,22 @@
+{
+	"name": "crateDB",
+	"description": "crateDB,PDO, Yii Connection",
+	"keywords": ["yii2", "PDO", "crateDB", "connection"],
+	"author":[
+		{
+			"name": "Jason.Chen",
+			"email": "bluecat1999@163.com",
+		}
+	],
+	"license": "BSD-3-Clause",
+	"require": {
+		"yiisoft/yii2": "~2.0.14"
+	},
+	"autoload": {"Crate\\": "src"},
+    "repositories": [
+         {
+           "type": "composer",
+           "url": "https://asset-packagist.org"
+         }
+     ]
+}
