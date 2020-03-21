@@ -10,7 +10,7 @@ crateDB PDO 来自https://github.com/crate/crate-pdo, downgrade it for adapting 
 #####配置：
 １ common/config/bootstrap.php 或者　common/config/bootstrap-local.php　中添加:
 
-        require_once (dirname(__DIR__) . '/crateDB/yii/autoload.php');
+        require_once (dirname(__DIR__) . '/cratedb/yii/autoload.php');
    or
    composer require crateDB
         

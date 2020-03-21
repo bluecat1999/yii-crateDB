@@ -1,5 +1,5 @@
 {
-	"name": "crateDB/yii",
+	"name": "cratedb/yii",
 	"description": "crateDB,PDO, Yii Connection",
 	"keywords": ["yii2", "PDO", "crateDB", "connection"],
 	"author":[
